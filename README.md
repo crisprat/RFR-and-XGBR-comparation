@@ -1,2 +1,2 @@
 # RFR-and-XGBR-comparation
-RFR and XGBR on sklearn
+RandomForestRegressor and XGBRegressor on sklearn with one dataset for training and tests
